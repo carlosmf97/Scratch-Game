@@ -1,0 +1,12 @@
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/game/Main.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/BonusSymbolProbability.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/CellProbability.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/Game.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/GameConfig.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/GameResult.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/MatrixGenerator.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/Probabilities.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/Symbol.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/WinCombination.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/models/WinningCombinationFinder.java
+/Users/carlos/Desktop/Workspace/Scratch Game/src/main/java/utils/JsonUtil.java
